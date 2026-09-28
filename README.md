@@ -6,7 +6,7 @@
 ## 📦 Como Baixar e Instalar
 
 1. Acesse a aba **[Releases (Versões Mais Recentes)](https://github.com/LigoskiTLS/Nexus/releases/latest)**.
-2. Baixe o instalador: **`NexusSetup-v1.0.0.exe`**.
+2. Baixe o instalador: **`NexusSetup-v1.0.1.exe`**.
 3. Execute o instalador e siga o assistente na tela (leva menos de 10 segundos).
 4. O atalho com o ícone oficial será criado na sua **Área de Trabalho** e no **Menu Iniciar**.
 5. Pronto! Agora é só abrir e jogar. (OBS: O APLICATIVO FUNCIONA EM APENAS UM SERVIDOR DE FIVEM POR EM QUANTO)
