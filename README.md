@@ -1,4 +1,4 @@
-# ⚡ NEXUS v1.0.0
+# ⚡ NEXUS
 > Sistema beta de automação para FiveM com visão computacional!
 
 ---
