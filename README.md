@@ -1,2 +1,2 @@
-# Nexus
-sistema em criação para automação e facilidade em servidor de RP
+# ⚡ NEXUS v1.0.0
+> Sistema de automação para FiveM com visão computacional!
